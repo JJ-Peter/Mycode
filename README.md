@@ -1,0 +1,2 @@
+# Mycode
+Some inspirational code
